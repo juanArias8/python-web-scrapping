@@ -1,0 +1,466 @@
+Price,Brand,Model,Version,Year,Milleage,Doors,Fuel,Shield,Color,Transmision,Direction,Traction,Only owner,Motor,Cylinders
+21.400.000,Renault,Sandero,GT Line,2011,82.200 km,4,Gasolina,nan,nan,Manual,nan,nan,nan,nan,nan
+41.990.000,Renault,Sandero,Life Evolucion,2020,1 km,5,Gasolina,000,nan,Manual,nan,nan,nan,nan,nan
+38.500.000,Renault,Sandero,RS,2017,20.000 km,5,Gasolina,777,nan,Manual,nan,nan,nan,nan,nan
+17.500.000,Renault,Sandero,Expression,2011,102.919 km,5,Gasolina,Placa par,nan,Mecánica,nan,nan,nan,nan,nan
+35.890.000,Renault,Sandero,LIFE,2020,0 km,4,Gasolina,OOO000,nan,Mecánica,nan,nan,nan,nan,nan
+25.000.000,Renault,Sandero,nan,2013,38.000 km,nan,nan,impar,Rojo,Manual,Hidráulica,nan,nan,nan,nan
+29.500.000,Renault,Sandero,nan,2018,44.000 km,nan,Gasolina,efm917,Rojo,Manual,Hidráulica,nan,nan,1600,nan
+30.500.000,Renault,Sandero,nan,2019,16.000 km,nan,Gasolina,xxxxx4,nan,Mecánica,nan,nan,nan,nan,nan
+24.500.000,Renault,Sandero,Automatico,2014,43.800 km,5,Gasolina,HGV160,nan,Automática,nan,nan,nan,nan,nan
+21.000.000,Renault,Sandero,nan,2012,67.000 km,nan,nan,MAW604,nan,Mecánica,nan,nan,nan,nan,nan
+33.000.000,Renault,Sandero,2018,2018,19.000 km,5,Gasolina,par,nan,Mecánica,nan,nan,nan,nan,nan
+25.700.000,Renault,Sandero,Expresion,2015,38.000 km,5,Gasolina,ZZP340,nan,Mecánica,nan,nan,nan,nan,nan
+23.000.000,Renault,Sandero,Autectic,2013,44.000 km,4,Gasolina,HBM,nan,Mecánica,nan,nan,nan,nan,nan
+41.500.000,Renault,Sandero,Sandero RS,2017,7.100 km,5,Gasolina,Par,nan,Mecánica,nan,nan,nan,nan,nan
+19.000.000,Renault,Sandero,Autentique 2012,2012,84.000 km,5,Gasolina,Pares,nan,Mecánica,nan,nan,nan,nan,nan
+20.000.000,Renault,Sandero,Autentic,2012,93.300 km,4,Gasolina,Par,nan,Mecánica,nan,nan,nan,nan,nan
+23.000.000,Renault,Sandero,Sandero 2015,2015,50.000 km,4,Gasolina,Impar,nan,Mecánica,nan,nan,nan,nan,nan
+19.000.000,Renault,Sandero,Sandero gt,2010,122.000 km,5,Gasolina,Ddi 820,nan,Mecánica,nan,nan,nan,nan,nan
+33.900.000,Renault,Sandero,SANDERO DYNAMIQUE 1600 CC AB AA,2017,42.000 km,4,Gasolina,XXX006,Plateado,Automática,Hidráulica,nan,Sí,nan,nan
+18.900.000,Renault,Sandero,RENAULT SANDERO,2012,87.000 km,4,Gasolina,FFFF0,Gris,Automática,Hidráulica,4x2,nan,nan,nan
+26.900.000,Renault,Sandero,EXPRESSION MT 1600CC AA,2016,16.400 km,5,Gasolina,INL 298,AzulPerson,Mecánica,Electroasistida,4x2,nan,nan,nan
+33.000.000,Renault,Sandero,Dynamique,2016,35.600 km,5,Gasolina,IVU 204,Azul,Mecánica,Hidráulica,4x2,nan,nan,nan
+29.000.000,Renault,Sandero,Dynamique,2016,35.000 km,4,Gasolina,UTP-624,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+31.000.000,Renault,Sandero,LIFE MT 1600CC AA,2019,7.100 km,5,Gasolina,FFZ-162,Rojo,Mecánica,Hidráulica,4x2,Sí,nan,nan
+21.800.000,Renault,Sandero,SANDERO,2014,37.000 km,5,Gasolina,HBW770,GRISBEIGE,Mecánica,Asistida,4x2,nan,nan,nan
+24.500.000,Renault,Sandero,SANDERO EXPRESSION,2016,75.000 km,5,Gasolina,FFFFF2,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+28.900.000,Renault,Sandero,Automatiq AT 1600CC AA,2016,20.000 km,5,Gasolina,USV-566,Gris,Automáticasecuencial,Asistida,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,EXPRESSION A.A,2010,79.000 km,5,Gasolina,ABK-738,Rojo,Mecánica,Asistida,4x2,nan,nan,nan
+26.500.000,Renault,Sandero,DYNAMIQUE AUT,2014,64.000 km,5,Gasolina,HPQ622,Gris,Automática,Hidráulica,4x2,nan,nan,nan
+23.200.000,Renault,Sandero,GT LINE,2013,52.500 km,5,Gasolina,HAX 123,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+18.500.000,Renault,Sandero,EXPRESSION MT 1600CC AA,2012,171.000 km,5,Gasolina,RIL 809,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+24.600.000,Renault,Sandero,Expression,2016,58.000 km,5,Gasolina,LFR518,Rojo,Mecánica,Hidráulica,nan,Sí,nan,nan
+35.490.000,Renault,Sandero,SANDERO LIFE,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Mecánica,4x2,nan,nan,nan
+30.000.000,Renault,Sandero,AUTOMATICO,2016,39.400 km,5,Gasolina,UCX 160,Blanco,Automática,Hidráulica,nan,nan,nan,nan
+25.000.000,Renault,Sandero,SANDERO 1.6 AUTHENTIQUE,2017,63.000 km,5,Gasolina,DMV-091,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+28.500.000,Renault,Sandero,AUTOMATIQ AT 1600CC AA,2016,26.712 km,5,Gasolina,UTS 556,GrisComet,Automática,Hidráulica,4x2,Sí,nan,nan
+21.300.000,Renault,Sandero,Hatch back,2014,51.500 km,5,Gasolina,HTS269,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+35.230.000,Renault,Sandero,SANDERO LIFE,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Mecánica,4x2,nan,nan,nan
+25.000.000,Renault,Sandero,GT LINE,2012,61.000 km,5,Gasolina,RIN551,Negro,Mecánica,Hidráulica,nan,nan,nan,nan
+23.300.000,Renault,Sandero,AUTENTIQUE AA MT,2016,42.200 km,5,Gasolina,IIZ582,Beige,Mecánica,Hidráulica,nan,Sí,nan,nan
+37.900.000,Renault,Sandero,SANDERO POLAR,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Hidráulica,4x2,nan,nan,nan
+17.900.000,Renault,Sandero,DINAMIC,2009,90.000 km,5,Gasolina,COB099,ROJOVIVO,Mecánica,Hidráulica,4x2,Sí,nan,nan
+19.500.000,Renault,Sandero,EXPRESSION AA,2011,63.500 km,4,Gasolina,RHW-068,Negro,Mecánica,Hidráulica,nan,nan,nan,nan
+22.500.000,Renault,Sandero,Tweed AT,2015,45.000 km,5,Gasolina,HWL-590,GrisEstrella,Automática,Hidráulica,4x2,nan,nan,nan
+28.000.000,Renault,Sandero,GT LINE,2015,85.000 km,5,Gasolina,VCU627,GRISCOMET,Mecánica,Hidráulica,nan,nan,nan,nan
+27.500.000,Renault,Sandero,Expression,2016,24.405 km,4,Gasolina,Par,Gris,Mecánica,Mecánica,nan,Sí,nan,nan
+21.000.000,Renault,Sandero,Sandero Expression,2012,84.800 km,5,Gasolina,MFT169,GrisComet,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.500.000,Renault,Sandero,GT LINE,2014,80.600 km,5,Gasolina,DJV 689,Blanco,Mecánica,Hidráulica,4x2,nan,nan,nan
+24.000.000,Renault,Sandero,Authentique,2016,46.000 km,5,Gasolina,xxxxx0,Rojo,Mecánica,Hidráulica,4x2,Sí,nan,nan
+21.400.000,Renault,Sandero,GT Line,2011,82.200 km,4,Gasolina,nan,nan,Manual,nan,nan,nan,nan,nan
+24.000.000,Renault,Sandero,SANDERO AUTOMATIQ,2014,70.623 km,5,Gasolina,HCK454,Negronacarado,Automática,Hidráulica,4x2,Sí,nan,nan
+22.000.000,Renault,Sandero,DYNAMIQUE. 1.6 cc. FULL EQUIPO,2011,52.600 km,5,Gasolina,RHV987,GRISCOMET,Mecánica,Hidráulica,4x2,Sí,nan,nan
+31.000.000,Renault,Sandero,Dynamique,2018,25.000 km,5,Gasolina,EBN812,Gris,Mecánica,Asistida,nan,Sí,nan,nan
+19.000.000,Renault,Sandero,EXPRESSION,2009,113.000 km,5,Gasolina,DBH688,Azul,Mecánica,Asistida,nan,nan,nan,nan
+32.000.000,Renault,Sandero,AUTOMATIQ,2016,23.200 km,5,Gasolina,*****2,GRISESTELLA,Automática,Hidráulica,nan,nan,nan,nan
+21.900.000,Renault,Sandero,1600,2013,90.570 km,5,Gasolina,NDY589,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+23.000.000,Renault,Sandero,Dynamique At 1600 CC  16v,2012,67.700 km,5,Gasolina,***-**5,Azulgris,Automática,Hidráulica,nan,Sí,nan,nan
+29.000.000,Renault,Sandero,AA 1.6 5P,2016,24.000 km,5,Gasolina,IJO-843,GrisComet,Mecánica,Asistida,4x2,Sí,nan,nan
+29.800.000,Renault,Sandero,LIFE,2018,27.500 km,5,Gasolina,DYZ 100,Griscomet,Mecánica,Hidráulica,nan,nan,nan,nan
+22.000.000,Renault,Sandero,Hatch back,2014,72.422 km,5,Gasolina,HEY467,Grisbeige,Mecánica,Asistida,nan,nan,nan,nan
+23.000.000,Renault,Sandero,dynamic,2013,94.479 km,5,Gasolina,*****6,grisestrella,Mecánica,Hidráulica,4x2,nan,nan,nan
+32.000.000,Renault,Sandero,EXPRESION,2018,17.600 km,4,Gasolina,DTN-111,Blanco,Mecánica,Hidráulica,nan,nan,nan,nan
+35.200.000,Renault,Sandero,Expression AA 1.6 5P,2018,11.000 km,4,Gasolina,DVY-802,GrisEstrella,Manual,Hidráulica,nan,nan,nan,nan
+25.200.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,61.000 km,nan,Gasolina,ZYL-864,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+25.200.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,61.000 km,nan,Gasolina,ZYL-864,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+29.500.000,Renault,Sandero,LIFE,2018,13.500 km,5,Gasolina,***-**9,GrisComet,Mecánica,Hidráulica,4x2,Sí,nan,nan
+39.900.000,Renault,Sandero,RS MT 2000CC,2017,23.000 km,nan,Gasolina,*****9,nan,Mecánica,nan,nan,nan,nan,nan
+23.500.000,Renault,Sandero,Hatch back,2013,59.000 km,4,Gasolina,HAT043,Negronacarado,Mecánica,Hidráulica,4x2,Sí,nan,nan
+23.000.000,Renault,Sandero,Dynamique Mt  1.6 Hb,2013,59.500 km,5,Gasolina,MJV374,Rojo,Mecánica,Hidráulica,nan,Sí,nan,nan
+28.300.000,Renault,Sandero,GT LINE MT 1600CC 16V,2016,45.000 km,5,Gasolina,UTL906,Gris,Mecánica,Hidráulica,nan,nan,1600,nan
+23.500.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2012,61.000 km,5,Gasolina,RMO857,Gris,Automática,Hidráulica,nan,nan,1600,nan
+32.600.000,Renault,Sandero,Dynamique At 1600CC AA AB ABS,2017,39.000 km,5,Gasolina,IUW-985,GrisEstrella,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+23.500.000,Renault,Sandero,AT 1600CC AA,2012,72.000 km,5,Gasolina,RLX-765,GrisComet,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+29.900.000,Renault,Sandero,GT LINE,2015,45.418 km,5,Gasolina,ZYL126,Rojo,Manual,Hidráulica,nan,nan,nan,nan
+22.900.000,Renault,Sandero,Dynamique,2014,57.000 km,5,Gasolina,HBR695,GRISCOMET,Mecánica,Hidráulica,nan,Sí,nan,nan
+41.990.000,Renault,Sandero,Life Evolucion,2020,1 km,5,Gasolina,000,nan,Manual,nan,nan,nan,nan,nan
+31.900.000,Renault,Sandero,Trip advisor,2018,13.900 km,5,Gasolina,Ebm345,Azul,Mecánica,Hidráulica,nan,Sí,nan,nan
+34.000.000,Renault,Sandero,Expression,2018,24.000 km,5,Gasolina,***-**2,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+23.500.000,Renault,Sandero,DYNAMIQUE,2012,70.000 km,5,Gasolina,MCU037,ROJOPAVOT,Automáticasecuencial,Hidráulica,4x2,Sí,nan,nan
+25.900.000,Renault,Sandero,Automatic AT 1600CC AA,2015,52.800 km,5,Gasolina,ZXX-328,Gris,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+39.990.000,Renault,Sandero,TWIZY,2020,0 km,5,Eléctrico,nan,BLANCO-NEGRO,Mecánica,Mecánica,4x2,nan,nan,nan
+99.990.000,Renault,Sandero,ZOE INTENS,2020,0 km,5,Eléctrico,nan,BLANCO-GRIS,Mecánica,Electroasistida,4x2,nan,nan,nan
+29.000.000,Renault,Sandero,Expression NIGHT DAY,2017,33.000 km,5,Gasolina,JEX 136,nan,Mecánica,nan,nan,nan,nan,nan
+25.200.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,61.000 km,nan,Gasolina,ZYL-864,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+26.800.000,Renault,Sandero,GT LINE,2015,62.000 km,5,Gasolina,HVQ800,GRISCOMET,Mecánica,Hidráulica,4x2,nan,nan,nan
+33.000.000,Renault,Sandero,Expresion,2017,22.000 km,nan,Gasolina,JFO378,nan,Mecánica,nan,nan,nan,nan,nan
+29.800.000,Renault,Sandero,GT Line,2015,57.000 km,5,Gasolina,ZYS648,Blanco,Mecánica,Hidráulica,4x2,nan,nan,nan
+32.000.000,Renault,Sandero,EXPRESSION,2019,17.000 km,5,Gasolina,HFP983,BEIGECENDRE,Automática,Hidráulica,4x2,Sí,nan,nan
+22.000.000,Renault,Sandero,EXPRESSION,2014,91.000 km,5,Gasolina,HJW998,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+20.000.000,Renault,Sandero,DYNAMIQUE 1.6 FULL EQUIPO,2011,72.000 km,5,Gasolina,Rdw,Gris879,Mecánica,Hidráulica,nan,Sí,nan,nan
+18.300.000,Renault,Sandero,DINAMIC,2009,69.000 km,5,Gasolina,DCF137,AZULGRIS,Mecánica,Hidráulica,nan,Sí,nan,nan
+28.000.000,Renault,Sandero,EXPRESSION,2017,53.800 km,5,Gasolina,JEQ589,GRISESTRELLA,Mecánica,Hidráulica,nan,nan,nan,nan
+23.500.000,Renault,Sandero,GT LINE,2012,67.000 km,5,Gasolina,KKU785,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.500.000,Renault,Sandero,Expression,2015,51.000 km,5,Gasolina,URR179,Griscomet,Mecánica,Hidráulica,4x2,nan,nan,nan
+32.000.000,Renault,Sandero,EXPRESSION 1.6 AA,2018,22.250 km,5,Gasolina,DQK-712,GRISCOMET,Mecánica,Hidráulica,nan,nan,nan,nan
+20.000.000,Renault,Sandero,Authentic,2012,86.000 km,5,Gasolina,Rjt012,Griscomet.,Mecánica,Asistida,nan,nan,nan,nan
+25.500.000,Renault,Sandero,EXPRESSION MT 1600CC AA,2015,49.500 km,5,Gasolina,UTQ 696,Gris,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+36.900.000,Renault,Sandero,Rs Sport,2017,47.000 km,4,Gasolina,*****9,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+27.500.000,Renault,Sandero,Autentiq,2016,41.000 km,5,Gasolina,Ivu527,Rojofuego,Mecánica,Hidráulica,nan,nan,nan,nan
+18.500.000,Renault,Sandero,Expression,2011,140.000 km,5,Gasolina,KBN811,Grisplatina,Mecánica,Asistida,nan,nan,nan,nan
+35.000.000,Renault,Sandero,expression,2018,14.000 km,5,Gasolina,DZW-119,Gris,Automáticasecuencial,Mecánica,nan,nan,nan,nan
+27.000.000,Renault,Sandero,dynamique,2015,50.635 km,4,Gasolina,hjt394,PLATA,Manual,Hidráulica,nan,nan,nan,nan
+35.000.000,Renault,Sandero,sandero expression,2018,14.807 km,5,Gasolina,DQL594,griscomet,Manual,Hidráulica,4x2,nan,nan,nan
+25.200.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,61.000 km,nan,Gasolina,ZYL-864,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+22.500.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2013,72.080 km,nan,Gasolina,***-**3,Rojo,Manual,Hidráulica,nan,Sí,1600,nan
+22.800.000,Renault,Sandero,Expression AA 1.6 5P,2013,30.000 km,5,Gasolina,MPX-354,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+40.800.000,Renault,Sandero,New Sandero Exclusive Sec,2019,16.102 km,5,Gasolina,ELZ2090,Gris,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+19.500.000,Renault,Sandero,MT 1.6 full equipo,2012,68.450 km,5,Gasolina,RJV224,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+21.000.000,Renault,Sandero,Dinamique MT 1600 FE,2012,85.000 km,5,Gasolina,RNL829,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.500.000,Renault,Sandero,DYNAMIQUE ATUMATIQ 1.6 FE,2012,90.000 km,5,Gasolina,MCT-548,BLANCOARTICA,Automáticasecuencial,Hidráulica,nan,nan,nan,nan
+30.800.000,Renault,Sandero,RENAULT SANDERO DYNAMIQUE,2017,22.500 km,5,Gasolina,IWT869,GRISCOMET,Mecánica,Hidráulica,4x2,nan,nan,nan
+20.000.000,Renault,Sandero,GT MUSIQUE,2011,84.500 km,5,Gasolina,RBT667,AzulGris,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.000.000,Renault,Sandero,DYNAMIQUE,2013,71.000 km,5,Gasolina,NDZ 930,GRISBEIGE,Mecánica,Mecánica,4x2,Sí,nan,nan
+29.800.000,Renault,Sandero,New Sandero Expression,2018,12.373 km,5,Gasolina,EBT981,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,EXPRESSION MT 1600,2011,114.000 km,5,Gasolina,reb893,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,Expression,2011,97.000 km,5,Gasolina,RDV-552,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+32.500.000,Renault,Sandero,Expresion Exclusive,2018,14.400 km,5,Gasolina,DTP-713,Gris,Mecánica,Hidráulica,4x2,Sí,nan,nan
+26.000.000,Renault,Sandero,Mt 1600,2016,47.000 km,5,Gasolina,IML-813,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+26.500.000,Renault,Sandero,AT 1600 AA AB ABS,2014,33.500 km,5,Gasolina,HIV726,Plata,Automática,Hidráulica,4x2,nan,nan,nan
+26.990.000,Renault,Sandero,GT LINE,2015,47.000 km,5,Gasolina,HVQ-404,VINOTINTO,Mecánica,Hidráulica,4x2,nan,nan,nan
+24.200.000,Renault,Sandero,Expression MT 1600CC AA,2015,80.000 km,5,Gasolina,ZZU-966,RojoFuego,Manual,Hidráulica,4x2,nan,nan,nan
+22.500.000,Renault,Sandero,Dynamique MT 1600,2012,92.000 km,5,Gasolina,RKR-685,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+33.900.000,Renault,Sandero,AUTOMATIC,2016,34.254 km,5,Gasolina,IWS800,Rojo,Automáticasecuencial,Asistida,4x2,nan,nan,nan
+34.500.000,Renault,Sandero,New Sandero Aut,2017,36.403 km,5,Gasolina,IUW937,Gris,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+25.400.000,Renault,Sandero,SANDERO,2017,27.221 km,5,Gasolina,JDU833,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+26.500.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2016,46.700 km,nan,Gasolina,IFU240,Negro,Manual,Hidráulica,nan,Sí,nan,nan
+29.500.000,Renault,Sandero,SANDERO,2018,20.900 km,5,Gasolina,DQP739,Blanco,Manual,Mecánica,nan,nan,nan,nan
+32.000.000,Renault,Sandero,EXPRESSION MT 1600 AA,2018,1.376 km,5,Gasolina,EIW857,Gris,Mecánica,Hidráulica,4x2,Sí,nan,nan
+25.000.000,Renault,Sandero,Dynamique,2016,67.600 km,4,Gasolina,UUM-840,Gria,Mecánica,Hidráulica,4x2,Sí,nan,nan
+31.500.000,Renault,Sandero,Trip Advisor 1.6 Mt Aa,2018,11.900 km,5,Gasolina,JJM586,RojoFuego,Mecánica,Asistida,nan,nan,nan,nan
+26.500.000,Renault,Sandero,EXPRESSION,2016,33.000 km,5,Gasolina,XXXXX0,GRISESTRELLA,Mecánica,Hidráulica,4x2,Sí,nan,nan
+26.500.000,Renault,Sandero,Expression,2016,33.000 km,5,Gasolina,***-**0,GrisEstrella,Mecánica,Hidráulica,nan,Sí,nan,nan
+25.000.000,Renault,Sandero,DYNAMIQUE,2015,65.500 km,5,Gasolina,UCO-002,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+39.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2017,18.400 km,nan,Gasolina,Jcw792,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+27.900.000,Renault,Sandero,nan,2014,80.000 km,nan,Gasolina,Hjp545,Negro,Manual,Hidráulica,nan,nan,1200,nan
+18.900.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V FE,2011,101.000 km,nan,Gasolina,RCO374,Gris,Manual,Asistida,nan,nan,1600,4
+38.500.000,Renault,Sandero,RS,2017,20.000 km,5,Gasolina,777,nan,Manual,nan,nan,nan,nan,nan
+33.500.000,Renault,Sandero,Dynamique,2017,8.500 km,5,Gasolina,JET625,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.000.000,Renault,Sandero,EXPRESSION,2014,91.000 km,5,Gasolina,HJW998,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.500.000,Renault,Sandero,Automatiq,2012,75.000 km,5,Gasolina,ROK-920,Rojo,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+23.000.000,Renault,Sandero,Authentic,2014,98.000 km,5,Gasolina,HCZ861,Grisestrella,Mecánica,Mecánica,nan,nan,nan,nan
+31.700.000,Renault,Sandero,Life,2018,12.700 km,5,Gasolina,DWQ571,Beigecendre,Manual,Hidráulica,4x2,nan,nan,nan
+20.500.000,Renault,Sandero,GT MT 1600CC 8V FE,2009,89.500 km,nan,Gasolina,***-**4,Gris,Manual,Hidráulica,nan,nan,1600,8
+32.000.000,Renault,Sandero,MT 1600CC AA,2019,6.012 km,5,Gasolina,EMS-069,Rojo,Mecánica,Hidráulica,4x2,Sí,nan,nan
+19.800.000,Renault,Sandero,GT EDICION ESPECIAL,2010,92.000 km,5,Gasolina,DDD146,ROJOVIVO,Mecánica,Hidráulica,4x2,Sí,nan,nan
+20.900.000,Renault,Sandero,GT LINE MT 1600CC 16V,2012,91.150 km,nan,Gasolina,RMK996|,Beige,Manual,Hidráulica,nan,nan,1600,nan
+23.500.000,Renault,Sandero,Dynamique,2014,75.450 km,5,Gasolina,HJQ-181,Grisconet,Mecánica,Asistida,4x2,Sí,nan,nan
+28.800.000,Renault,Sandero,EXPRESSION,2017,22.800 km,5,Gasolina,JEM635,Gris,Mecánica,Hidráulica,4x2,Sí,nan,nan
+22.700.000,Renault,Sandero,Authentique,2016,76.000 km,5,Gasolina,IWO089,Blanco,Mecánica,Hidráulica,4x2,Sí,nan,nan
+23.000.000,Renault,Sandero,Dynamique,2013,58.000 km,5,Gasolina,***-**2,AZUL/GRIS,Mecánica,Hidráulica,4x2,nan,nan,nan
+20.500.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2012,93.000 km,nan,Gasolina,Cuz904,Gris,Manual,Hidráulica,nan,nan,1600,nan
+26.500.000,Renault,Sandero,GT LINE,2014,67.000 km,5,Gasolina,nan,GRISCOMET,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,1.6 Mt,2009,67.341 km,5,Gasolina,DCH436,GRISPERLA,Manual,Hidráulica,nan,nan,nan,nan
+22.000.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V SA,2013,81.850 km,nan,Gasolina,NBS872,Rojo,Manual,Asistida,nan,nan,1600,4
+23.900.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,70.000 km,nan,Gasolina,HTU 958,Negro,Manual,Asistida,nan,Sí,1598,4
+31.500.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2016,27.500 km,5,Gasolina,***_**1,GRISESTRELLA,Automática,Asistida,4x2,nan,nan,nan
+30.000.000,Renault,Sandero,STEPWAY 1.6,2014,51.000 km,5,Gasolina,HSU501,PLATA,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.500.000,Renault,Sandero,STEPWAY MT 1600CC AA,2011,123.000 km,5,Gasolina,RGL 242,GrisComet,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.700.000,Renault,Sandero,Automatic Dynamique  1600 cc,2015,45.000 km,5,Gasolina,UCW976,Negro,Automática,Hidráulica,4x2,Sí,nan,nan
+19.000.000,Renault,Sandero,MT 1600,2012,95.000 km,5,Gasolina,MCZ-795,Rojo,Mecánica,Asistida,4x2,Sí,nan,nan
+18.500.000,Renault,Sandero,Expresion,2012,97.000 km,5,Gasolina,RHX 242,GRISBEIGE,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.900.000,Renault,Sandero,EXPRESSION,2015,32.600 km,5,Gasolina,UCT530,Blanco,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.900.000,Renault,Sandero,EXPRESSION,2015,32.600 km,5,Gasolina,UCT530,Blanco,Mecánica,Hidráulica,4x2,nan,nan,nan
+23.500.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2014,40.000 km,nan,Gasolina,HTR085,Gris,Manual,Hidráulica,nan,Sí,1600,8
+18.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2009,134.000 km,nan,Gasolina,DBP248,Gris,Manual,Hidráulica,nan,nan,1600,6
+33.000.000,Renault,Sandero,nan,2017,39.951 km,nan,Gasolina,IUW-206,Gris,Automática,Hidráulica,nan,nan,1600,nan
+27.500.000,Renault,Sandero,Expression 1.6 Mt  Aa,2016,28.200 km,5,Gasolina,URR283,RojoFuego,Mecánica,Hidráulica,nan,nan,nan,nan
+19.500.000,Renault,Sandero,HB MT 1600 AA AB,2012,93.000 km,5,Gasolina,RNP688,GrisComet,Mecánica,Hidráulica,4x2,nan,nan,nan
+33.800.000,Renault,Sandero,life +,2019,3.300 km,5,Gasolina,FQX670,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,Dynamique 1.6 8v,2011,107.600 km,5,Gasolina,RGT722,Grisestrella,Mecánica,Hidráulica,4x2,nan,nan,nan
+26.500.000,Renault,Sandero,GT LINE MT 1600CC 16V,2013,70.300 km,nan,Gasolina,NCY402,Negro,Manual,Hidráulica,nan,nan,1600,4
+18.500.000,Renault,Sandero,GTI,2010,79.200 km,5,Gasolina,Kam280,Rojo,Mecánica,Hidráulica,nan,nan,nan,nan
+34.300.000,Renault,Sandero,sandero lift aa abs  airbag,2019,4.000 km,5,Gasolina,FOS491,Beige,Mecánica,Hidráulica,nan,Sí,nan,nan
+18.000.000,Renault,Sandero,GT Line Mt 1600CC AA,2010,104.000 km,5,Gasolina,CPA-489,Rojo,Mecánica,Hidráulica,4x2,Sí,nan,nan
+19.500.000,Renault,Sandero,AUTHENTIQUE,2013,122.500 km,5,Gasolina,MKK520,GRISESTRELLA,Manual,Mecánica,4x2,nan,nan,nan
+28.000.000,Renault,Sandero,Expression MT 1600CC AA,2017,42.500 km,5,Gasolina,JDU-495,Gris,Manual,Hidráulica,4x2,nan,nan,nan
+31.000.000,Renault,Sandero,Trip Advisor 1.6 Mt Aa,2018,17.500 km,5,Gasolina,DWQ550,GrisComet,Mecánica,Asistida,nan,nan,nan,nan
+30.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V FE,2016,42.000 km,nan,Gasolina,HYX-050,Plateado,Manual,Hidráulica,nan,nan,1600,4
+21.500.000,Renault,Sandero,GT LINE,2012,70.000 km,5,Gasolina,RLW771,Azul,Mecánica,Hidráulica,4x2,nan,nan,nan
+16.800.000,Renault,Sandero,1600CC MT AA,2010,101.000 km,4,Gasolina,***-**9,Gris,Mecánica,Hidráulica,nan,Sí,nan,nan
+28.200.000,Renault,Sandero,Hatchback,2016,44.000 km,5,Gasolina,Dml630,PLATABRILLANTE,Automática,Hidráulica,4x2,nan,nan,nan
+23.500.000,Renault,Sandero,Autentique,2014,43.500 km,5,Gasolina,HTT115,Beis,Manual,Hidráulica,nan,nan,nan,nan
+28.900.000,Renault,Sandero,Dynamique,2016,34.000 km,4,Gasolina,*****5,Gris,Manual,Hidráulica,Delantera,nan,nan,nan
+26.500.000,Renault,Sandero,Otras Versiones,2013,53.200 km,nan,Gasolina,MKK204,Gris,Automática,Hidráulica,nan,nan,1600,nan
+25.200.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,61.000 km,nan,Gasolina,ZYL-864,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+26.500.000,Renault,Sandero,nan,2015,53.049 km,nan,Gasolina,ZZX-206,Negro,Manual,Hidráulica,nan,Sí,1600,nan
+20.500.000,Renault,Sandero,EXPRESSION,2012,94.000 km,5,Gasolina,MCN147,ROJOPAVOT,Manual,Hidráulica,4x2,nan,nan,nan
+23.500.000,Renault,Sandero,Authentique 1600 MT SA,2016,47.000 km,5,Gasolina,UUQ575,GrisComet,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.000.000,Renault,Sandero,AUTOMATIQ 1598,2013,38.500 km,5,Gasolina,NEK 419,GRISBEIGEAUTO,Automática,Hidráulica,nan,nan,nan,nan
+27.500.000,Renault,Sandero,Dinamique,2016,57.000 km,5,Gasolina,UUR 688,Gris,Manual,Asistida,nan,nan,nan,nan
+19.800.000,Renault,Sandero,GT FV 8V,2011,107.850 km,5,Gasolina,2,Grisplatina,Manual,Hidráulica,4x2,nan,nan,nan
+27.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V FE,2015,37.500 km,nan,Gasolina,URT-988,Gris,Manual,Hidráulica,nan,nan,1600,8
+31.000.000,Renault,Sandero,AUTOMATICO,2016,31.000 km,5,Gasolina,URV093,Gris,Automática,Hidráulica,4x2,nan,nan,nan
+28.300.000,Renault,Sandero,nan,2018,20.000 km,nan,Gasolina,***-**2,Blanco,Manual,Hidráulica,nan,Sí,1600,nan
+28.000.000,Renault,Sandero,AUTHENTIQUE A.A,2017,56.000 km,5,Gasolina,IYM765,PLATA,Mecánica,Hidráulica,4x2,nan,nan,nan
+21.000.000,Renault,Sandero,Expression,2012,51.400 km,4,Gasolina,RMN957,ROJOPAVOT,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.900.000,Renault,Sandero,Gt Line,2014,33.400 km,4,Gasolina,***-**0,Negro,Mecánica,Electroasistida,4x2,nan,nan,nan
+19.500.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2011,119.091 km,5,Gasolina,RHV 462,Azul,Mecánica,Hidráulica,nan,nan,1600,4
+22.000.000,Renault,Sandero,Autentique,2014,47.000 km,5,Gasolina,*****1,Negro,Mecánica,Hidráulica,nan,nan,nan,nan
+21.200.000,Renault,Sandero,Autentique 1.6 Mt Sa,2012,43.250 km,5,Gasolina,RMU965,GrisComet,Manual,Hidráulica,nan,nan,nan,nan
+30.500.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2016,18.600 km,nan,Gasolina,IVZ214,Gris,Manual,Asistida,nan,Sí,1600,4
+21.500.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2012,44.600 km,5,Gasolina,MJW556,Negro,Manual,Hidráulica,nan,nan,1600cc,nan
+19.500.000,Renault,Sandero,EXPRESSION MT 1600CC AA,2010,79.640 km,5,Gasolina,DCW 128,GrisRaton,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.700.000,Renault,Sandero,DINAMIQUE TWEED MT 1600CC AA,2015,52.000 km,5,Gasolina,ZYY 456,GrisHumo,Manual,Hidráulica,4x2,nan,nan,nan
+22.500.000,Renault,Sandero,MT,2013,67.000 km,5,Gasolina,Mjx021,Rojo,Manual,Hidráulica,nan,nan,nan,nan
+22.000.000,Renault,Sandero,Authentique MT 1600CC AA,2015,53.000 km,5,Gasolina,URS 036,GrisComet,Mecánica,Hidráulica,nan,nan,nan,nan
+27.500.000,Renault,Sandero,Autenthique 1.6,2017,8.000 km,4,Gasolina,JEY-309,Gris,Mecánica,Asistida,4x2,Sí,nan,nan
+18.900.000,Renault,Sandero,nan,2010,85.000 km,nan,Gasolina,RAR740,Gris,Manual,Hidráulica,nan,nan,1.6,nan
+17.900.000,Renault,Sandero,Espresion,2009,65.000 km,5,Gasolina,Dbq275,Plata,Mecánica,Hidráulica,nan,Sí,nan,nan
+21.800.000,Renault,Sandero,Sandero gt line,2012,71.000 km,5,Gasolina,RLZ036,Plata,Mecánica,Hidráulica,nan,nan,nan,nan
+25.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2013,60.000 km,nan,Gasolina,*****4,Gris,Manual,Hidráulica,nan,nan,1600,nan
+25.000.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,72.000 km,nan,Gasolina,ZZK-469,Gris,Manual,Hidráulica,nan,Sí,1600,nan
+23.800.000,Renault,Sandero,Expression,2016,55.000 km,5,Gasolina,UTP 581,Grisbeige,Mecánica,Asistida,nan,Sí,nan,nan
+28.900.000,Renault,Sandero,Life,2018,24.000 km,nan,Gasolina,*****0,Gris,Manual,Mecánica,nan,nan,1598,nan
+32.600.000,Renault,Sandero,Dynamique full equipo  AT 1600cc 16V,2017,24.538 km,5,Gasolina,DNK077,GRISCOMET,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+21.200.000,Renault,Sandero,DINAMIQUE FULL 1600,2012,78.100 km,5,Gasolina,RNP-268,Rojo,Mecánica,Hidráulica,nan,nan,nan,nan
+23.400.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V SA,2014,83.000 km,5,Gasolina,HCP645,Gris,Manual,Hidráulica,nan,nan,1600,4
+19.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V FE,2011,122.000 km,nan,Gasolina,RHN164,Rojo,Manual,Hidráulica,nan,Sí,1600,nan
+25.900.000,Renault,Sandero,GT LINE MT 1600CC 16V,2015,73.000 km,nan,Gasolina,zyw694,Gris,Manual,Mecánica,nan,nan,1600,4
+26.000.000,Renault,Sandero,GT LINE 1.6 MT,2016,34.500 km,5,Gasolina,ZXX708,Rojofuego,Manual,Hidráulica,nan,nan,nan,nan
+19.500.000,Renault,Sandero,Dynamique Mt 1600CC AA AB ABS,2011,23.807 km,5,Gasolina,KGV-957,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.000.000,Renault,Sandero,GT line 1.6,2012,42.111 km,4,Gasolina,MCY151,griscomet,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.400.000,Renault,Sandero,Full equipo,2010,93.000 km,5,Gasolina,Ddx717,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+20.500.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2011,96.000 km,4,Gasolina,RHQ919,Gris,Manual,Hidráulica,nan,nan,1600,4
+23.000.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2011,70.000 km,nan,Gasolina,*****7,Negro,Manual,Hidráulica,nan,nan,1600,16
+20.000.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2011,64.000 km,nan,Gasolina,2,Gris,Manual,Hidráulica,nan,nan,1600cc,4
+20.000.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2010,126.000 km,nan,Gasolina,RAS480,Negro,Manual,Hidráulica,nan,Sí,1600,4
+36.000.000,Renault,Sandero,Exclusive,2018,8.000 km,5,Gasolina,***-**9,Gris,Mecánica,Asistida,nan,nan,1598,nan
+25.000.000,Renault,Sandero,AT 1600CC AA,2013,63.800 km,5,Gasolina,HAR 583,RojoFuego,Automática,Hidráulica,4x2,nan,nan,nan
+18.500.000,Renault,Sandero,AUTHNTIQUE MT 1600CC,2012,130.000 km,5,Gasolina,******8,GRISESTRELLA,Mecánica,Hidráulica,4x2,nan,nan,nan
+23.500.000,Renault,Sandero,Sandero,2016,32.500 km,5,Gasolina,5,GRISCOMET,Mecánica,Mecánica,4x2,Sí,nan,nan
+23.900.000,Renault,Sandero,GT Line 1.6 16 valvulas,2013,45.266 km,5,Gasolina,NCQ302,Griscometa,Manual,Hidráulica,4x2,nan,nan,nan
+21.000.000,Renault,Sandero,Sedan,2014,84.000 km,5,Gasolina,HCV 860,GRISESTRELLA,Manual,Asistida,nan,nan,nan,nan
+29.500.000,Renault,Sandero,Life 1598cc,2019,21.000 km,5,Gasolina,ELQ-262,Negro,Manual,Mecánica,nan,nan,nan,nan
+26.000.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,39.000 km,nan,Gasolina,ZIY427,Rojo,Manual,Hidráulica,nan,Sí,1600,4
+33.500.000,Renault,Sandero,Dynamique,2017,8.500 km,5,Gasolina,JET625,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+26.800.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V,2015,33.700 km,nan,Gasolina,UTQ969,Rojo,Manual,Hidráulica,nan,Sí,1600,nan
+22.500.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2012,80.000 km,nan,Gasolina,RIX-169,Negro,Manual,Hidráulica,nan,nan,1600,nan
+19.800.000,Renault,Sandero,Sandero gt line 16 Valvulas,2011,81.000 km,5,Gasolina,RHM681,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+21.600.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2011,90.200 km,nan,Gasolina,RHT-110,Rojo,Manual,Hidráulica,nan,nan,1600,16
+47.000.000,Renault,Sandero,RS MT 2.0L,2017,5.000 km,nan,Gasolina,Dyz500,Gris,Manual,Hidráulica,nan,Sí,2000,2000
+28.000.000,Renault,Sandero,Authenthique A.A,2018,33.000 km,5,Gasolina,JJK096,Grisestrella,Manual,Hidráulica,4x2,nan,nan,nan
+21.400.000,Renault,Sandero,GT LINE MT 1600CC 16V,2011,79.500 km,nan,Gasolina,LCI833,Gris,Manual,Hidráulica,nan,nan,1600,16
+23.500.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2013,84.000 km,nan,Gasolina,***-**0,Gris,Manual,Hidráulica,nan,Sí,1500,4
+21.800.000,Renault,Sandero,Authentique MT 1600CC AA,2014,48.950 km,5,Gasolina,HBM-696,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V AA,2010,82.000 km,nan,Gasolina,*****0,Plateado,Manual,Hidráulica,nan,nan,1600,4
+27.000.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2014,64.000 km,nan,Gasolina,*****1,Gris,Automática,Hidráulica,nan,Sí,1600,nan
+32.900.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V FE,2016,24.000 km,nan,Gasolina,IMW-084,Negro,Mecánica,Hidráulica,nan,Sí,1600,8
+16.000.000,Renault,Sandero,Expression,2009,128.000 km,5,Gasolina,Dcc520,Grisperla,Mecánica,Mecánica,4x2,nan,nan,nan
+32.500.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2019,1.935 km,nan,Gasolina,EMP-457,Azul,Mecánica,Hidráulica,nan,Sí,1598,nan
+22.000.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2014,55.000 km,nan,Gasolina,HCL930,Rojo,Manual,Hidráulica,nan,nan,1600,4
+23.500.000,Renault,Sandero,DYNAMIQUE MT 1600CC 8V FE,2010,26.700 km,nan,Gasolina,*****6,Rojo,Manual,Hidráulica,nan,Sí,1600CC,8
+26.500.000,Renault,Sandero,Nuevo Sandero,2016,22.300 km,5,Gasolina,IVS919,Gris,Mecánica,Mecánica,4x2,nan,nan,nan
+19.900.000,Renault,Sandero,GT LINE MT 1600CC 16V,2011,87.560 km,nan,Gasolina,KJO 331,Rojo,Manual,Hidráulica,nan,nan,1600,nan
+23.000.000,Renault,Sandero,AUTHENTIQUE,2016,27.000 km,5,Gasolina,***-**6,GRISLUNA,Mecánica,Hidráulica,4x2,nan,nan,nan
+21.600.000,Renault,Sandero,autentyque,2015,31.800 km,4,Gasolina,UCQ707,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+30.000.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2017,20.000 km,nan,Gasolina,JDM005,Rojo,Manual,Hidráulica,nan,Sí,nan,nan
+27.900.000,Renault,Sandero,Aut0matico,2016,45.000 km,4,Gasolina,Dgt504,Grisestrella,Automática,Hidráulica,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,nan,2010,89.000 km,nan,Gasolina,KAL-078,Blanco,Manual,Hidráulica,nan,Sí,1600,nan
+33.500.000,Renault,Sandero,AUTOMATIQ AT 1600cc AA,2017,15.000 km,5,Gasolina,IUW868,Grisestrella,Automática,Hidráulica,4x2,nan,nan,nan
+25.300.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2015,46.313 km,nan,Gasolina,IDW 269,Negro,Manual,Hidráulica,nan,nan,nan,nan
+28.000.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2018,19.000 km,nan,Gasolina,***-**5,Blanco,Manual,Hidráulica,nan,Sí,1600,nan
+21.500.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2010,97.000 km,nan,Gasolina,RAS-082,Gris,Manual,Hidráulica,nan,Sí,1.598,nan
+32.900.000,Renault,Sandero,TRIP ADVISOR 1600,2018,18.000 km,nan,Gasolina,ELY213,Blanco,Manual,Hidráulica,nan,Sí,1600CC,nan
+17.500.000,Renault,Sandero,GT,2009,130.000 km,5,Gasolina,DCK-793,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+18.500.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2011,110.000 km,nan,Gasolina,RHS775,Gris,Manual,Hidráulica,nan,nan,1600,nan
+21.500.000,Renault,Sandero,AUTENTIQUE,2015,49.200 km,5,Gasolina,ZZM603,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+19.700.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2012,57.500 km,nan,Gasolina,*****2,Negro,Manual,Hidráulica,nan,nan,1600,1600
+27.500.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2016,30.500 km,nan,Gasolina,IWU247,Plateado,Manual,Hidráulica,nan,Sí,1.600cc,4
+30.000.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V SA,2017,12.000 km,nan,Gasolina,Iwn680,Gris,Manual,Hidráulica,nan,Sí,1600cc,4
+35.000.000,Renault,Sandero,TRIP ADVISOR 1600,2018,7.050 km,nan,Gasolina,EBV-160,Rojo,Manual,Hidráulica,nan,Sí,1600,nan
+19.000.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2010,80.000 km,nan,Gasolina,RZM 750,Rojo,Manual,Mecánica,nan,nan,1600,nan
+28.000.000,Renault,Sandero,Expression Mt 1600Cc Aa,2018,7.000 km,5,Gasolina,***-**7,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.900.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2016,45.600 km,5,Gasolina,INT311,Gris,Manual,Hidráulica,4x2,nan,1600,4
+17.000.000,Renault,Sandero,Dinamic AA 1.6 5P,2009,82.000 km,5,Gasolina,NVU-827,Rojo,Mecánica,Hidráulica,nan,nan,nan,nan
+18.900.000,Renault,Sandero,GT LINE MT 1600CC 16V,2010,82.000 km,nan,Gasolina,DCP-304,Azul,Manual,Hidráulica,nan,nan,1600,nan
+22.300.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2013,60.480 km,nan,Gasolina,HAX-919,Rojo,Manual,Hidráulica,nan,nan,1598,8
+28.600.000,Renault,Sandero,nan,2018,23.000 km,nan,Gasolina,DNR-574,Gris,Manual,Hidráulica,nan,nan,1600,4
+42.900.000,Renault,Sandero,RS MT 2000CC,2017,13.000 km,nan,Gasolina,HYT931,Rojo,Mecánica,Hidráulica,nan,nan,2000,nan
+29.500.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2017,12.900 km,nan,Gasolina,JFL-149,Gris,Manual,Hidráulica,nan,nan,1600,nan
+32.800.000,Renault,Sandero,full equipo,2019,100 km,5,Gasolina,fzt751,Gris,Manual,Mecánica,nan,nan,nan,nan
+21.400.000,Renault,Sandero,GT LINE MT 1600CC 16V,2011,105.000 km,nan,Gasolina,MQN-957,Gris,Manual,Hidráulica,nan,Sí,1598,16
+19.400.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2010,115.000 km,nan,Gasolina,DCU-799,Gris,Manual,Hidráulica,nan,nan,1600,nan
+15.400.000,Renault,Sandero,Sandero,2011,113.000 km,5,Gasolina,KIV647,Blanco,Mecánica,Hidráulica,4x2,nan,nan,nan
+20.900.000,Renault,Sandero,Aut. Dynamique,2015,35.000 km,5,Gasolina,UCL-897,Gris,Automática,Hidráulica,nan,nan,nan,nan
+24.700.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V SA,2016,35.000 km,4,Gasolina,XXX001,Plateado,Mecánica,Hidráulica,nan,Sí,1600,1600
+18.500.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2012,88.000 km,4,Gasolina,MBV901,Plateado,Mecánica,Hidráulica,4x2,nan,1600,4
+34.990.000,Renault,Sandero,Life,2020,0 km,5,Gasolina,000000,Gris,Mecánica,Asistida,nan,nan,1.6,4
+42.900.000,Renault,Sandero,NEW SANDERO RS 2.0 MEC,2018,10.485 km,4,Gasolina,EPR772,Rojo,Mecánica,Asistida,4x2,nan,nan,nan
+38.890.000,Renault,Sandero,Sandero Polar,2020,0 km,5,Gasolina,000000,Plateado,Mecánica,Hidráulica,nan,nan,1.6,4
+18.890.000,Renault,Sandero,SANDERO DYNAMIQUE,2011,81.000 km,5,Gasolina,RCQ250,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+29.900.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2016,36.100 km,4,Gasolina,INN287,Gris,Automática,Asistida,4x2,nan,nan,1600
+28.500.000,Renault,Sandero,RENAULT SANDERO AUT 2015,2015,63.448 km,5,Gasolina,HQW201,Blanco,Automática,Hidráulica,4x2,nan,nan,nan
+25.900.000,Renault,Sandero,AUTENTIQUE,2016,51.800 km,5,Gasolina,IKX649,PLATA,Mecánica,Electroasistida,4x2,nan,nan,nan
+42.900.000,Renault,Sandero,NEW SANDERO RS 2.0 MEC,2018,12.210 km,4,Gasolina,EPR782,Rojo,Mecánica,Asistida,4x2,nan,nan,nan
+33.900.000,Renault,Sandero,NEW SANDERO 1.6 AUT,2017,30.400 km,4,Gasolina,INQ136,Gris,Mecánica,Asistida,4x2,nan,nan,nan
+26.000.000,Renault,Sandero,renault sandero authentique s/a,2017,19.700 km,5,Gasolina,jdu841,beigecendre,Mecánica,Hidráulica,4x2,Sí,nan,nan
+24.000.000,Renault,Sandero,Sandero Automatico,2014,61.937 km,5,Gasolina,KLM550,GrisComet,Automáticasecuencial,Asistida,4x2,nan,nan,nan
+28.100.000,Renault,Sandero,SANDERO 1.6 AUT,2015,74.530 km,4,Gasolina,KAT315,Gris,Mecánica,Electroasistida,4x2,nan,nan,nan
+25.000.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2014,63.000 km,5,Gasolina,HJP989,Rojo,Mecánica,Hidráulica,nan,nan,1600,4
+29.000.000,Renault,Sandero,1.6 Mt,2019,3.000 km,5,Gasolina,******,Blanco,Mecánica,Electroasistida,4x2,Sí,nan,nan
+20.990.000,Renault,Sandero,Renault Sandero 1.6 Mec.D.H Bloqueo Rines,2013,50.000 km,5,Gasolina,MKW637,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+28.900.000,Renault,Sandero,RENA,2015,63.448 km,5,Gasolina,HQW201,PLATA,Automática,nan,nan,nan,nan,nan
+24.900.000,Renault,Sandero,RENAULT SANDERO 1600 CC MT AA 2017,2017,52.000 km,5,Gasolina,DMU669,NEGRONACARADO,Mecánica,Hidráulica,4x2,nan,nan,nan
+49.900.000,Renault,Sandero,DUSTER ZEN,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Hidráulica,4x2,nan,nan,nan
+28.500.000,Renault,Sandero,SANDERO DYNAMIQUE 1.6 MT,2015,19.000 km,5,Gasolina,UCM627,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+34.500.000,Renault,Sandero,INTENSE AUT,2017,35.169 km,5,Gasolina,INR189,PLATA,Automáticasecuencial,Asistida,4x2,nan,nan,nan
+42.489.000,Renault,Sandero,Exclusive,2018,8.000 km,5,Gasolina,ejw799,nan,Automática,nan,nan,nan,nan,nan
+35.000.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V,2017,30.940 km,5,Gasolina,IUW630,Plateado,Automática,Hidráulica,nan,nan,1600,nan
+24.500.000,Renault,Sandero,EXPRESSION,2015,36.000 km,5,Gasolina,zxt524,Rojo,Mecánica,nan,4x2,Sí,nan,nan
+18.600.000,Renault,Sandero,sandero expression 1600cc,2010,48.000 km,4,Gasolina,dcv744,rojoalmagro,Mecánica,Hidráulica,4x2,Sí,nan,nan
+22.500.000,Renault,Sandero,Dynamique,2014,83.000 km,5,Gasolina,8,Negro,Mecánica,nan,nan,nan,nan,nan
+22.500.000,Renault,Sandero,DYNAMIQUE 1600,2012,71.000 km,4,Gasolina,RJY503,ROJOPERLADO,Manual,Hidráulica,4x2,nan,nan,nan
+37.500.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2017,31.000 km,5,Gasolina,IHL945,Blanco,Automática,Hidráulica,nan,nan,1600,4
+35.900.000,Renault,Sandero,At,2016,23.352 km,4,Gasolina,DGT584,Gris,Automática,Hidráulica,nan,nan,nan,nan
+42.900.000,Renault,Sandero,RS,2017,12.577 km,5,Gasolina,EHK207,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+23.900.000,Renault,Sandero,RENAULT,2012,10.800 km,5,Gasolina,CRL575,Gris,Mecánica,nan,nan,nan,nan,nan
+24.000.000,Renault,Sandero,GT LINE,2013,66.000 km,5,Gasolina,NBT630,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+31.500.000,Renault,Sandero,SANDERO EXPRESION,2018,32.000 km,5,Gasolina,DSV350,PLATA,Mecánica,Hidráulica,4x2,nan,nan,nan
+28.900.000,Renault,Sandero,nan,2016,39.056 km,nan,Gasolina,IKV888,Beige,Manual,Hidráulica,nan,nan,1600,nan
+27.900.000,Renault,Sandero,Dynamique,2015,52.148 km,5,Gasolina,UCZ909,Gris,Manual,Hidráulica,4x2,nan,nan,nan
+18.990.000,Renault,Sandero,Authentique 1.6 MT,2012,92.843 km,5,Gasolina,RJP843,Gris,Mecánica,Asistida,4x2,nan,nan,nan
+37.900.000,Renault,Sandero,SANDERO RS SPORT 2.0,2017,28.000 km,5,Gasolina,DVU119,Blanco,Manual,Hidráulica,nan,nan,nan,nan
+20.900.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V AA,2012,56.000 km,5,Gasolina,ROK974,nan,Manual,nan,nan,nan,nan,nan
+38.900.000,Renault,Sandero,MT,2018,11.428 km,4,Gasolina,FNO412,Gris,Mecánica,Hidráulica,nan,nan,nan,nan
+18.900.000,Renault,Sandero,EXPRESSION AA,2011,69.733 km,4,Gasolina,RHS-634,Negro,Mecánica,Hidráulica,4x2,nan,nan,nan
+28.900.000,Renault,Sandero,RENAULT,2016,35.000 km,5,Gasolina,DJY477,Gris,Mecánica,nan,nan,nan,nan,nan
+18.700.000,Renault,Sandero,sandero gt f.e,2010,71.000 km,5,Gasolina,dds599,Rojo,Mecánica,Hidráulica,4x2,Sí,nan,nan
+32.000.000,Renault,Sandero,DYNAMIQUE,2017,34.000 km,5,Gasolina,2,PLATABRILLANTE,Automática,Hidráulica,4x2,Sí,nan,nan
+35.000.000,Renault,Sandero,Dynamique,2017,30.980 km,5,Gasolina,JFP901,Azul,Manual,Hidráulica,nan,nan,nan,nan
+60.650.000,Renault,Sandero,DUSTER EDICIÓN ESPECIAL POLAR 4X2,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Hidráulica,4x2,nan,nan,nan
+17.400.000,Renault,Sandero,DYNAMIQUE 1600 CC M/T F/E,2009,83.000 km,5,Gasolina,DDC-107,GRISPLATINA,Mecánica,Hidráulica,4x2,nan,nan,nan
+35.230.000,Renault,Sandero,Otras Versiones,2020,0 km,4,Gasolina,aaa000,Otro,Manual,Hidráulica,nan,nan,1600,4
+30.490.000,Renault,Sandero,RENAULT SANDERO EXPRESSION EDICION ESPECIAL NIGTH & DAY,2017,19.800 km,4,Gasolina,par,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+37.990.000,Renault,Sandero,RENAULT SANDERO RS EXPRESSION,2017,16.800 km,4,Gasolina,1,BLANCOGLACIAL,Mecánica,Electroasistida,4x2,nan,nan,nan
+17.500.000,Renault,Sandero,Expression,2011,102.919 km,5,Gasolina,Placa par,nan,Mecánica,nan,nan,nan,nan,nan
+27.900.000,Renault,Sandero,1600cc Aa  Automatic,2016,33.000 km,4,Gasolina,IFV 930,nan,Automática,nan,nan,nan,nan,nan
+42.490.000,Renault,Sandero,RS,2017,22.254 km,4,Gasolina,JFQ795,Blanco,Mecánica,Hidráulica,nan,nan,nan,nan
+40.900.000,Renault,Sandero,"RENAULT SANDERO RS 2,0",2017,7.232 km,4,Gasolina,DOO516,Blanco,Mecánica,Hidráulica,4x2,nan,nan,nan
+19.500.000,Renault,Sandero,Expression,2012,82.511 km,4,Gasolina,3,nan,Mecánica,nan,nan,Sí,nan,nan
+46.290.000,Renault,Sandero,Intens,2020,0 km,5,Gasolina,nan,nan,Mecánica,nan,nan,nan,nan,nan
+27.500.000,Renault,Sandero,Tweed,2015,48.000 km,5,Gasolina,ZYQ182,Grisoscuro,Mecánica,Asistida,nan,nan,nan,nan
+35.890.000,Renault,Sandero,LIFE,2020,0 km,4,Gasolina,OOO000,nan,Mecánica,nan,nan,nan,nan,nan
+35.990.000,Renault,Sandero,RENAULT SANDERO LIFE,2019,0 km,4,Gasolina,AAA000,Gris,Mecánica,Asistida,4x2,nan,nan,nan
+27.900.000,Renault,Sandero,SANDERO EXPRESSION 1.6,2015,48.340 km,4,Gasolina,ZZS995,Rojo,Mecánica,Asistida,4x2,nan,nan,nan
+23.490.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2013,94.000 km,nan,Gasolina,MPO307,Rojo,Automática,Hidráulica,nan,nan,1600,nan
+36.900.000,Renault,Sandero,"RENAULT NUEVO SANDERO 1,6 AUT",2016,18.715 km,4,Gasolina,IXS145,Gris,Automática,Hidráulica,4x2,nan,1600,nan
+33.800.000,Renault,Sandero,RENAULT NUEVO SANDERO EXPRESSION,2018,30.600 km,5,Gasolina,EHO428,Gris,Manual,Hidráulica,nan,nan,1600,nan
+48.245.000,Renault,Sandero,STEPWAY POLAR,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.900.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V AA,2012,54.000 km,nan,Gasolina,DFL164,Gris,Automática,Hidráulica,nan,Sí,16000,nan
+35.890.000,Renault,Sandero,Life,2020,0 km,nan,Gasolina,000,Gris,Manual,Hidráulica,nan,Sí,1600,4
+32.990.000,Renault,Sandero,KWID ZEN,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Electroasistida,4x2,nan,nan,nan
+37.990.000,Renault,Sandero,POLAR,2020,0 km,5,Gasolina,xxxooo,Rojo,Manual,Hidráulica,nan,nan,1.6LT,4
+27.900.000,Renault,Sandero,nan,2014,49.500 km,nan,nan,his788,Gris,Automática,Hidráulica,nan,nan,nan,nan
+16.000.000,Renault,Sandero,sandero  expression,2009,135.200 km,5,Gasolina,DCF129,GRISPLATA,Mecánica,Mecánica,4x2,Sí,nan,nan
+18.900.000,Renault,Sandero,DINAMIQUE FULL/ financio,2011,110.000 km,4,Gasolina,kgd090,Rojo,Mecánica,Hidráulica,4x2,nan,nan,nan
+29.990.000,Renault,Sandero,KWID LIFE,2020,0 km,5,Gasolina,nan,Segúndisponibilidad,Mecánica,Mecánica,4x2,nan,nan,nan
+28.900.000,Renault,Sandero,EXPRESSION 1.6LT 8V MT,2016,39.030 km,4,Gasolina,JFP930,RojoFuego,Mecánica,Hidráulica,nan,nan,nan,nan
+21.500.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2012,71.000 km,nan,Gasolina,xxx4,Vinotinto,Manual,Hidráulica,nan,Sí,1600,nan
+29.490.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2016,40.588 km,nan,Gasolina,IJS701,Plateado,Manual,Hidráulica,nan,Sí,1600,nan
+21.900.000,Renault,Sandero,GT LINE,2012,66.000 km,5,Gasolina,8,Gris,Mecánica,Asistida,4x2,nan,nan,nan
+26.900.000,Renault,Sandero,AUTOMATICO,2012,59.802 km,5,Gasolina,MCW411,Rojo,Automática,Hidráulica,nan,nan,nan,nan
+26.800.000,Renault,Sandero,AUTHENTIQUE,2016,43.300 km,4,Gasolina,IWN117,PLATA,Mecánica,Asistida,4x2,nan,nan,nan
+32.500.000,Renault,Sandero,GT LINE MT 1600CC 16V FE,2015,65.700 km,5,Gasolina,IDZ775,Negro,Manual,Hidráulica,nan,nan,1.6,nan
+25.890.000,Renault,Sandero,Authentique Financio,2016,15.509 km,5,Gasolina,IUY904,Plata,Manual,Hidráulica,4x2,nan,nan,nan
+25.800.000,Renault,Sandero,DYNAMIQUE AT 1600CC 16V,2014,67.000 km,5,Gasolina,HPS147,Gris,Automática,Hidráulica,nan,nan,1.6,nan
+21.500.000,Renault,Sandero,RENAULT SANDERO 1.600CC,2015,54.000 km,5,Gasolina,UDL489,Rojo,Mecánica,Hidráulica,4x2,Sí,nan,nan
+25.900.000,Renault,Sandero,AUTHENTIQUE MT 1600CC 8V SA,2016,28.000 km,nan,Gasolina,IJS080,Plateado,Manual,Hidráulica,nan,Sí,1.6,4
+25.000.000,Renault,Sandero,nan,2013,38.000 km,nan,nan,impar,Rojo,Manual,Hidráulica,nan,nan,nan,nan
+38.900.000,Renault,Sandero,RS Sport,2017,23.000 km,5,Gasolina,edx435,nan,Manual,nan,nan,nan,nan,nan
+28.900.000,Renault,Sandero,AUTHENTIQUE CA,2018,27.000 km,5,Gasolina,DNL232,Azul,Mecánica,Hidráulica,4x2,Sí,nan,nan
+23.900.000,Renault,Sandero,Renault sandero aut,2012,49.900 km,4,Gasolina,rol312,nan,Automática,nan,nan,nan,nan,nan
+21.990.000,Renault,Sandero,GT LINE,2011,65.000 km,5,Gasolina,RHT668,Rojo,Mecánica,Hidráulica,nan,nan,nan,nan
+23.000.000,Renault,Sandero,EXPRESSION MT 1600CC 8V AA,2012,89.000 km,nan,Gasolina,RIN252,Rojo,Manual,Hidráulica,nan,Sí,1.6,nan
+29.500.000,Renault,Sandero,nan,2018,44.000 km,nan,Gasolina,efm917,Rojo,Manual,Hidráulica,nan,nan,1600,nan
+34.500.000,Renault,Sandero,New Sandero Aut,2017,34.000 km,5,Gasolina,IUX108,Plateado,Automática,Hidráulica,4x2,nan,nan,nan
+28.500.000,Renault,Sandero,LOGAN LIFE,2018,59.200 km,5,Gasolina,IVV475,PLATA,Mecánica,Asistida,4x2,Sí,nan,nan
+31.800.000,Renault,Sandero,Expression,2018,14.080 km,5,Gasolina,EDX699,Plateado,Mecánica,Hidráulica,4x2,Sí,nan,nan
+25.490.000,Renault,Sandero,AUTHENTIQUE AA,2016,44.000 km,4,Gasolina,IKU456,PLATA,Mecánica,Asistida,4x2,nan,nan,nan
+19.000.000,Renault,Sandero,AUTENTIQUE,2012,40.000 km,5,Gasolina,MAU518,Plateado,Mecánica,Hidráulica,4x2,nan,nan,nan
+18.000.000,Renault,Sandero,expresion,2014,75.000 km,5,Gasolina,hnw902,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+38.500.000,Renault,Sandero,RS Sport,2017,22.994 km,5,Gasolina,DQL600,Blanco,Manual,Hidráulica,nan,nan,nan,nan
+24.698.000,Renault,Sandero,AUTHENTIQUE,2016,44.000 km,4,Gasolina,IKU456,PLATA,Mecánica,Hidráulica,4x2,Sí,nan,nan
+14.900.000,Renault,Sandero,AUTHENTIQUE,2009,108.000 km,5,Gasolina,6,nan,Mecánica,nan,nan,nan,nan,nan
+35.640.000,Renault,Sandero,Life,2020,0 km,4,Gasolina,nan,Otro,Manual,Eléctrica,nan,nan,1600,nan
+17.490.000,Renault,Sandero,Dinamique,2009,88.000 km,4,Gasolina,*****2,Negro,Mecánica,Hidráulica,nan,nan,nan,nan
+16.600.000,Renault,Sandero,SANDERO,2009,130.000 km,4,Gasolina,XXX583,nan,Mecánica,Mecánica,4x2,nan,nan,nan
+30.500.000,Renault,Sandero,nan,2019,16.000 km,nan,Gasolina,xxxxx4,nan,Mecánica,nan,nan,nan,nan,nan
+22.300.000,Renault,Sandero,Sandero GT Line Automatiq,2012,96.500 km,5,Gasolina,GRG-278,GrisEstrella,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+24.000.000,Renault,Sandero,GT LINE,2014,82.000 km,4,Gasolina,HIS232,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+24.900.000,Renault,Sandero,Expression,2016,43.000 km,5,Gasolina,UTN810,Rojofuego,Mecánica,Hidráulica,4x2,nan,nan,nan
+25.950.000,Renault,Sandero,GTLine,2015,37.000 km,4,Gasolina,xxxx4,nan,Mecánica,nan,nan,Sí,nan,nan
+29.000.000,Renault,Sandero,Dynamique,2016,32.600 km,5,Gasolina,DAR617,Azulpersan,Mecánica,Electroasistida,nan,nan,nan,nan
+28.000.000,Renault,Sandero,gt line,2016,47.800 km,4,Gasolina,utl903,nan,Manual,nan,nan,nan,nan,nan
+24.500.000,Renault,Sandero,Automatico,2014,43.800 km,5,Gasolina,HGV160,nan,Automática,nan,nan,nan,nan,nan
+18.300.000,Renault,Sandero,nan,2010,103.000 km,nan,nan,Ddn158,Azul,Manual,Hidráulica,nan,nan,nan,nan
+25.000.000,Renault,Sandero,Sandero expression,2015,57.000 km,5,Gasolina,UCX 213,nan,Mecánica,nan,nan,nan,nan,nan
+19.500.000,Renault,Sandero,Renault Sandero,2012,70.000 km,5,Gasolina,2,nan,Mecánica,nan,nan,nan,nan,nan
+29.700.000,Renault,Sandero,GT Line,2016,54.000 km,4,Gasolina,787,Gris,Mecánica,Hidráulica,4x2,Sí,nan,nan
+22.150.000,Renault,Sandero,Expression,2013,53.000 km,5,Gasolina,NBZ591,ROJOVIVO,Mecánica,Hidráulica,nan,nan,nan,nan
+18.500.000,Renault,Sandero,Expression,2010,98.700 km,5,Gasolina,KGC733,nan,Mecánica,nan,nan,nan,nan,nan
+21.000.000,Renault,Sandero,GT LINE MT 1600CC 16V,2012,99.500 km,4,Gasolina,8,Gris,Mecánica,Hidráulica,4x2,Sí,nan,nan
+18.800.000,Renault,Sandero,Expression Full Equipo 1.6,2012,116.700 km,5,Gasolina,ABC129,AzulGris,Automática,Hidráulica,4x2,nan,nan,nan
+31.500.000,Renault,Sandero,TRIP ADVISOR,2018,13.800 km,5,Gasolina,DXK138,GRISCOMET,Mecánica,Asistida,4x2,nan,nan,nan
+24.500.000,Renault,Sandero,Sandero dinamic,2015,21.200 km,5,Gasolina,515,grisbeish,Automáticasecuencial,Hidráulica,nan,nan,nan,nan
+23.500.000,Renault,Sandero,authentique,2017,61.982 km,4,Gasolina,IXT078,nan,Manual,Hidráulica,nan,nan,nan,nan
+17.300.000,Renault,Sandero,Sandero GT Line,2010,94.000 km,4,Gasolina,DDH-014,GrisPlatina,Mecánica,Hidráulica,4x2,nan,nan,nan
+22.500.000,Renault,Sandero,expresión 1.6,2012,79.000 km,4,Gasolina,impar terminada en 1,nan,Mecánica,nan,nan,nan,nan,nan
+23.000.000,Renault,Sandero,2015,2015,103.000 km,4,Gasolina,Bgx513,nan,Automática,nan,nan,nan,nan,nan
+37.000.000,Renault,Sandero,sandero rs,2017,22.000 km,5,Gasolina,JDU525,Rojo,Mecánica,Electroasistida,nan,nan,nan,nan
+21.500.000,Renault,Sandero,E,2015,42.000 km,5,Gasolina,HVQ347,nan,Mecánica,nan,nan,nan,nan,nan
+28.000,Renault,Sandero,lift,2018,24.000 km,5,Gasolina,DWQ580,Negro,Mecánica,Electroasistida,4x2,Sí,nan,nan
+24.000.000,Renault,Sandero,Automatiq 16 16 valvulas automatico,2014,61.937 km,4,Gasolina,KLM550,Gris,Automática,Asistida,nan,nan,nan,nan
+27.000.000,Renault,Sandero,SANDERO EXPRESSION,2017,55.023 km,5,Gasolina,3,GRISCOMET,Mecánica,Asistida,4x2,nan,nan,nan
+21.000.000,Renault,Sandero,nan,2012,67.000 km,nan,nan,MAW604,nan,Mecánica,nan,nan,nan,nan,nan
+22.000.000,Renault,Sandero,Dinamic,2013,105.000 km,5,Gasolina,MPU 3,nan,Mecánica,nan,nan,nan,nan,nan
+17.300.000,Renault,Sandero,Renault Sandero dinamic,2009,120.430 km,5,Gasolina,DAI353,nan,Mecánica,nan,nan,nan,nan,nan
+26.900.000,Renault,Sandero,Expression,2015,23.500 km,5,Gasolina y gas,IDX778,nan,Mecánica,nan,nan,nan,nan,nan
+19.200.000,Renault,Sandero,Autentique,2011,106.000 km,5,Gasolina,CWY002,nan,Mecánica,nan,nan,nan,nan,nan
+32.000.000,Renault,Sandero,life,2019,18.500 km,4,Gasolina,ELP 383,nan,Mecánica,nan,nan,nan,nan,nan
+26.000.000,Renault,Sandero,GT LINE FUL EQUIPO,2015,42.000 km,5,Gasolina,Particular,nan,Mecánica,nan,nan,nan,nan,nan
+21.200.000,Renault,Sandero,Gt Line,2012,100.000 km,4,Gasolina,4,nan,Mecánica,nan,nan,nan,nan,nan
+21.200.000,Renault,Sandero,Gt Line,2012,100.000 km,4,Gasolina,4,nan,Mecánica,nan,nan,nan,nan,nan
+34.900.000,Renault,Sandero,Dynamique AT,2017,15.200 km,5,Gasolina,JEV271,GRISCOMET,Automáticasecuencial,Hidráulica,4x2,nan,nan,nan
+21.200.000,Renault,Sandero,Gt Line,2012,100.000 km,4,Gasolina,mcq044,nan,Mecánica,nan,nan,nan,nan,nan
+33.000.000,Renault,Sandero,2018,2018,19.000 km,5,Gasolina,par,nan,Mecánica,nan,nan,nan,nan,nan
+33.500.000,Renault,Sandero,Sandero Expression,2018,19.000 km,5,Gasolina,par,nan,Mecánica,nan,nan,nan,nan,nan
+25.700.000,Renault,Sandero,Expresion,2015,38.000 km,5,Gasolina,ZZP340,nan,Mecánica,nan,nan,nan,nan,nan
+19.900.000,Renault,Sandero,Expresion,2010,85.000 km,5,Gasolina,OOO777,nan,Mecánica,nan,nan,nan,nan,nan
+23.000.000,Renault,Sandero,Autectic,2013,44.000 km,4,Gasolina,HBM,nan,Mecánica,nan,nan,nan,nan,nan
+23.500.000,Renault,Sandero,Dynamique,2010,57.200 km,5,Gasolina,RAZ092,GrisPlatino,Mecánica,Hidráulica,4x2,nan,nan,nan
+31.500.000,Renault,Sandero,Expression Night & D,2017,2.400 km,5,Gasolina,DNM 374,nan,Mecánica,nan,nan,nan,nan,nan
+22.000.000,Renault,Sandero,Authentique,2014,54.828 km,5,Gasolina,HH,GrisComet,Mecánica,Hidráulica,nan,Sí,nan,nan
+21.500.000,Renault,Sandero,"Sandero, Authentique",2016,93.500 km,5,Gasolina,*****3,GrisEstrella,Mecánica,Asistida,4x2,Sí,nan,nan
+19.000.000,Renault,Sandero,2012 autentic,2012,141.000 km,5,Híbrido,Riu564,nan,Mecánica,nan,nan,nan,nan,nan
+17.500.000,Renault,Sandero,Renault Sandero Dynamic,2009,108.000 km,5,Gasolina,DBO756,nan,Mecánica,nan,nan,nan,nan,nan
+24.000.000,Renault,Sandero,Hachback,2013,63.850 km,4,Gasolina y gas,HAR583,nan,Automática,nan,nan,nan,nan,nan
+26.000.000,Renault,Sandero,dynamique 1600 MT V8,2014,70.000 km,4,Gasolina,HCP699,nan,Mecánica,nan,nan,nan,nan,nan
+19.000.000,Renault,Sandero,RENAUL SANDERO EXPRESSION,2011,80.000 km,5,Gasolina,XXX152,nan,Mecánica,Hidráulica,nan,nan,nan,nan
+22.500.000,Renault,Sandero,Sandero,2013,66.000 km,5,Gasolina,Ndr 026,nan,Mecánica,nan,nan,nan,nan,nan
+24.500.000,Renault,Sandero,SANDERO EXPRESSION 2015,2015,59.000 km,4,Gasolina,IAT328,ROJOFUEGO,Mecánica,Mecánica,nan,nan,nan,nan
+18.500.000,Renault,Sandero,sandero expression,2011,80.000 km,5,Gasolina,rbw572,nan,Mecánica,nan,nan,nan,nan,nan
+19.000.000,Renault,Sandero,Autentic,2013,91.000 km,5,Gasolina,*****4,nan,Mecánica,nan,nan,nan,nan,nan
+26.000.000,Renault,Sandero,GT LINE FUL EQUIPO,2015,42.000 km,5,Gasolina,PARTICULAR,nan,Mecánica,nan,nan,nan,nan,nan
+22.000.000,Renault,Sandero,Dinamiquet gt line,2012,200.000 km,4,Gasolina y gas,Rjp391,nan,Mecánica,nan,nan,nan,nan,nan
+21.000.000,Renault,Sandero,Expresion,2012,59.000 km,5,Gasolina,Mjv966,nan,Mecánica,nan,nan,nan,nan,nan
+16.500.000,Renault,Sandero,Sandero GT,2009,135.000 km,5,Gasolina,2,Gris,Mecánica,Mecánica,nan,nan,nan,nan
+41.500.000,Renault,Sandero,Sandero RS,2017,7.100 km,5,Gasolina,Par,nan,Mecánica,nan,nan,nan,nan,nan
+21.000.000,Renault,Sandero,Expression,2013,80.000 km,4,Gasolina,4,nan,Mecánica,nan,nan,nan,nan,nan
+20.000.000,Renault,Sandero,aunthentic,2014,82.000 km,5,Gasolina,hcw903,Gris,Mecánica,Asistida,4x2,nan,nan,nan
+41.600.000,Renault,Sandero,EXCLUSIVE,2018,10.335 km,5,Gasolina,PAR (6),GRISCOMET,Automática,Hidráulica,nan,Sí,nan,nan
+19.000.000,Renault,Sandero,Autentique 2012,2012,84.000 km,5,Gasolina,Pares,nan,Mecánica,nan,nan,nan,nan,nan
+24.000.000,Renault,Sandero,Expresión sl 45,2015,33.500 km,5,Gasolina,Urr042,nan,Mecánica,nan,nan,nan,nan,nan
+17.500.000,Renault,Sandero,Sandero expresión,2009,105.000 km,5,Gasolina,Dbq548,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+24.000.000,Renault,Sandero,sandero 1.6,2016,80.000 km,5,Gasolina,imu297,nan,Mecánica,nan,nan,nan,nan,nan
+20.000.000,Renault,Sandero,Autentic,2012,93.300 km,4,Gasolina,Par,nan,Mecánica,nan,nan,nan,nan,nan
+24.000.000,Renault,Sandero,Gt line,2012,86.000 km,5,Gasolina,KHZ479,nan,Mecánica,nan,nan,nan,nan,nan
+27.000.000,Renault,Sandero,Dinamique,2015,34.000 km,5,Gasolina,Htp 917,nan,Automática,nan,nan,nan,nan,nan
+23.000.000,Renault,Sandero,Sandero 2015,2015,50.000 km,4,Gasolina,Impar,nan,Mecánica,nan,nan,nan,nan,nan
+17.000.000,Renault,Sandero,GT 1.6,2010,156.000 km,5,Gasolina,9,nan,Mecánica,nan,nan,nan,nan,nan
+26.600.000,Renault,Sandero,SANDERO GT LINE,2015,39.000 km,5,Gasolina,UCN297,Gris,Mecánica,Hidráulica,4x2,nan,nan,nan
+20.000.000,Renault,Sandero,Authentique,2013,44.500 km,5,Gasolina,HBR108,Azul,Mecánica,Electroasistida,4x2,Sí,nan,nan
+19.000.000,Renault,Sandero,Sandero gt,2010,122.000 km,5,Gasolina,Ddi 820,nan,Mecánica,nan,nan,nan,nan,nan
+34.500.000,Renault,Sandero,2019,2019,4.500 km,5,Gasolina,Fol206,nan,Mecánica,nan,nan,nan,nan,nan
+20.000.000,Renault,Sandero,nan,2011,75.000 km,nan,Gasolina,RHZ921,Azul,Manual,Hidráulica,nan,nan,1600,nan
